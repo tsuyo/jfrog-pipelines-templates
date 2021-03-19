@@ -1,0 +1,27 @@
+[submodule "jfrog-pipelines-templates--global-docker-build-and-push"]
+	path = jfrog-pipelines-templates--global-docker-build-and-push
+	url = https://github.com/tsuyo/jfrog-pipelines-templates--global-docker-build-and-push.git
+[submodule "jfrog-pipelines-templates--system"]
+	path = jfrog-pipelines-templates--system
+	url = https://github.com/tsuyo/jfrog-pipelines-templates--system.git
+[submodule "jfrog-pipelines-templates--system-docker-build-and-push"]
+	path = jfrog-pipelines-templates--system-docker-build-and-push
+	url = https://github.com/tsuyo/jfrog-pipelines-templates--system-docker-build-and-push.git
+[submodule "jfrog-pipelines-templates--system-go-build"]
+	path = jfrog-pipelines-templates--system-go-build
+	url = https://github.com/tsuyo/jfrog-pipelines-templates--system-go-build.git
+[submodule "jfrog-pipelines-templates--system-hello-world"]
+	path = jfrog-pipelines-templates--system-hello-world
+	url = https://github.com/tsuyo/jfrog-pipelines-templates--system-hello-world.git
+[submodule "jfrog-pipelines-templates--system-maven-build"]
+	path = jfrog-pipelines-templates--system-maven-build
+	url = https://github.com/tsuyo/jfrog-pipelines-templates--system-maven-build.git
+[submodule "jfrog-pipelines-templates--system-npm-build"]
+	path = jfrog-pipelines-templates--system-npm-build
+	url = https://github.com/tsuyo/jfrog-pipelines-templates--system-npm-build.git
+[submodule "jfrog-pipelines-templates--system-release-to-edge-node"]
+	path = jfrog-pipelines-templates--system-release-to-edge-node
+	url = https://github.com/tsuyo/jfrog-pipelines-templates--system-release-to-edge-node.git
+[submodule "jfrog-pipelines-templates--system-sample"]
+	path = jfrog-pipelines-templates--system-sample
+	url = https://github.com/tsuyo/jfrog-pipelines-templates--system-sample.git
